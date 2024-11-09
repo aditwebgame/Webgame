@@ -1,0 +1,25 @@
+{
+  "name": "Astro Dodge",
+  "short_name": "Astro Dodge",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#061030",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "aditicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "aditicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "aditcover.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
