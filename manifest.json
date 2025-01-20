@@ -1,7 +1,7 @@
 {
-  "name": "Astro Dodge",
-  "short_name": "Astro Dodge",
-  "start_url": "/index.html",
+  "name": "Adit Game",
+  "short_name": "Adit Game",
+  "start_url": "/",
   "display": "fullscreen",
   "background_color": "#061030",
   "theme_color": "#ffffff",
@@ -17,7 +17,7 @@
       "type": "image/png"
     },
     {
-      "src": "aditcover.png",
+      "src": "aditicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
