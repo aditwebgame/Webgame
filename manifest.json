@@ -1,7 +1,7 @@
 {
   "name": "Adit Game",
   "short_name": "Adit Game",
-  "start_url": "/",
+  "start_url": "/Webgame/index.html",
   "display": "fullscreen",
   "background_color": "#061030",
   "theme_color": "#ffffff",
